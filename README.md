@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kevin Shilla
+- 👀 I Love Coding, Soccer/Football, Movies, and Video Games
+- 🌱 I’m currently learning Computer Science
+- 📫 How to reach me: shillakevin@gmail.com
